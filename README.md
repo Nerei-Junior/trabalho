@@ -23,7 +23,7 @@ Foi criado um Diagrama Entidade-Relacionamento (ER) que inclui as entidades Livr
 # Conceitual:
 ![](Model.%20Conceitual.PNG)
 
-# Lógica:
+# Lógico:
 ![](Model.%20Lógica.PNG)
 
 # Conversão para Modelo Relacional:
